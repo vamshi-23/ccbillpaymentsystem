@@ -80,7 +80,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>credit-card-bill-payment-system-api-docker</finalName>
 	</build>
 
 </project>
